@@ -1,0 +1,186 @@
+body {
+  margin: 0 auto 0 auto;
+  text-align: center;
+  font-family: 'Josefin Slab', serif;
+  font-weight:bold;
+  font-size: 1.3rem;
+  color: #48466d;
+  background-color: #ffe2e2;
+
+}
+
+p{
+  line-height: 1.75;
+
+}
+
+a {
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #76eddd;
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 4.5rem;
+  color: #00909e;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #66BFBF;
+  font-weight: lighter;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.5rem;
+}
+
+hr {
+  border-style: dotted none none;
+  border-width: 5px;
+  border-top-color: #f67280;
+  width: 5%;
+  margin: 100px auto;
+
+
+}
+
+.topbox {
+  background-color: #cbf1f5;
+  position: relative;
+  padding-top: 100px;
+  ;
+}
+
+.middlebox {
+  margin: 0;
+
+
+}
+
+.profile {
+  margin: 100px 0;
+}
+.bottombox {
+  align-items: center;
+  background-color: #cbf1f5;
+  margin: 0;
+  padding-bottom: 5px;
+  padding-top: 30px;
+
+}
+
+.topcloud {
+  position: absolute;
+  right: 250px;
+  top: 30px;
+}
+
+.bottomcloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.branding {
+  width: 20%;
+  height: 20%;
+  float: left;
+  padding-right: 30px;
+}
+
+.webdesigning {
+  width: 20%;
+  height: 20%;
+  float: right;
+  padding-left: 30px;
+}
+
+.photoshop {
+  width: 18%;
+  height: 18%;
+  float: left;
+  padding-right: 30px;
+}
+
+.cooking {
+  width: 18%;
+  height: 18%;
+  float: right;
+  padding-left: 30px;
+  position: relative;
+  bottom: 63px;
+  }
+
+.skills {
+margin: 20px auto;
+text-align: center;
+
+}
+
+.description {
+  color: #3d84a8;
+  width: 42%;
+  margin: auto;
+}
+
+.footer-link {
+  color: #888888;
+}
+
+.skill-row {
+  width: 65%;
+  margin: 50px auto;
+  text-align: left;
+}
+
+.contact-me{
+  width: 50%;
+  margin: 50px auto;
+  text-align: center;
+}
+
+
+
+.btn {
+	background-color:#cbf1f5;
+	border-radius:9px;
+	border:1px solid #888888;
+	display:inline-block;
+	cursor:pointer;
+	color:#888888;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:9px 24px;
+	text-decoration:none;
+}
+.btn:hover {
+	background-color:#76eddd;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+
+
+.copyright{
+  color: #393e46;
+  font-size: 1rem;
+  padding: 25px 0;
+}
+
+.GIT {
+  text-align: center;
+}
